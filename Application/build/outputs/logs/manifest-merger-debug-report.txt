@@ -1,0 +1,181 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Health_care_BLE\Application\src\main\AndroidManifest.xml:20:1-51:12
+INJECTED from E:\Health_care_BLE\Application\src\main\AndroidManifest.xml:20:1-51:12
+INJECTED from E:\Health_care_BLE\Application\src\main\AndroidManifest.xml:20:1-51:12
+MERGED from [com.android.support:support-v13:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\192428793c93a19b4680539180fb646f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\1cb2bc5cdbb3547a743bb88a81ad8da4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\8edf3d75203575fb527dc6580936c6f7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\093483d46585861c97508a87c6b1e7f0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\f1ff2af6803941560b55120c4aa66986\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\93e526283af5d9223731fbda5a4457f6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\811951f0e7290f7222306999fb1c8815\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\1f731142c62d605d7e550acf8c0239fa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\7ce630a3279da2f231228f06eb654597\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\5a37e8017bfce1766d50e3446c99a356\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\c26833e41a43464930a80efd37818a6f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\91e00242e76aad9fbe3a4ad4d2b4969f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\29e76035f11548cf3479b24452f99c43\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\1b58b5f5a9517f2c0eb51562dfa89e86\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\72d28e5b0c5bcb2ea29cd4d1bdee1b53\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\b71cd8f10168d97506f31985fb1deb30\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\29670791901da5a9d7959c7c95114309\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\3e9cffdbed58e7cc414d91b02e9fc670\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\515ad45dd462052433ddbb42c4ec0550\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\61a9fb511008124a506eb41f041ee391\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\9119f1f39a3ebfef21ff21515d8b9613\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\1a68475273cebc591bcb9b2f87c186cb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\19faab6cfe088658bbd92ee373c00b4b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\ed24ddf4dc5c5a0d5706606f7f620800\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\77165c3814b6333fb21616e740ed68ec\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\85733c0efd093869cbd102e68c1be272\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\0c942ed04f51454c2c828ae3b1132962\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\f8b666beac350e9de17f03e9674f379a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\55b85f454f377971ad0ebeb42d2f205c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\952ecf51c9d89b9acba6f33d77650ba1\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\Health_care_BLE\Application\src\main\AndroidManifest.xml:20:1-51:12
+INJECTED from E:\Health_care_BLE\Application\src\main\AndroidManifest.xml:20:1-51:12
+	package
+		ADDED from E:\Health_care_BLE\Application\src\main\AndroidManifest.xml:21:5-50
+	android:versionName
+		ADDED from E:\Health_care_BLE\Application\src\main\AndroidManifest.xml:23:5-30
+		INJECTED from E:\Health_care_BLE\Application\src\main\AndroidManifest.xml
+		INJECTED from E:\Health_care_BLE\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Health_care_BLE\Application\src\main\AndroidManifest.xml:20:11-69
+	android:versionCode
+		ADDED from E:\Health_care_BLE\Application\src\main\AndroidManifest.xml:22:5-28
+		INJECTED from E:\Health_care_BLE\Application\src\main\AndroidManifest.xml
+		INJECTED from E:\Health_care_BLE\Application\src\main\AndroidManifest.xml
+uses-feature#android.hardware.bluetooth_le
+ADDED from E:\Health_care_BLE\Application\src\main\AndroidManifest.xml:31:5-89
+	android:required
+		ADDED from E:\Health_care_BLE\Application\src\main\AndroidManifest.xml:31:64-87
+	android:name
+		ADDED from E:\Health_care_BLE\Application\src\main\AndroidManifest.xml:31:19-63
+uses-permission#android.permission.BLUETOOTH
+ADDED from E:\Health_care_BLE\Application\src\main\AndroidManifest.xml:33:5-67
+	android:name
+		ADDED from E:\Health_care_BLE\Application\src\main\AndroidManifest.xml:33:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from E:\Health_care_BLE\Application\src\main\AndroidManifest.xml:34:5-73
+	android:name
+		ADDED from E:\Health_care_BLE\Application\src\main\AndroidManifest.xml:34:22-71
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\Health_care_BLE\Application\src\main\AndroidManifest.xml:35:5-80
+	android:name
+		ADDED from E:\Health_care_BLE\Application\src\main\AndroidManifest.xml:35:22-78
+application
+ADDED from E:\Health_care_BLE\Application\src\main\AndroidManifest.xml:37:5-49:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\515ad45dd462052433ddbb42c4ec0550\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\515ad45dd462052433ddbb42c4ec0550\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\61a9fb511008124a506eb41f041ee391\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\61a9fb511008124a506eb41f041ee391\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\515ad45dd462052433ddbb42c4ec0550\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from E:\Health_care_BLE\Application\src\main\AndroidManifest.xml:37:18-47
+	android:icon
+		ADDED from E:\Health_care_BLE\Application\src\main\AndroidManifest.xml:38:9-45
+	android:theme
+		ADDED from E:\Health_care_BLE\Application\src\main\AndroidManifest.xml:39:9-56
+activity#com.example.android.bluetoothlegatt.DeviceScanActivity
+ADDED from E:\Health_care_BLE\Application\src\main\AndroidManifest.xml:40:9-46:20
+	android:label
+		ADDED from E:\Health_care_BLE\Application\src\main\AndroidManifest.xml:41:13-45
+	android:name
+		ADDED from E:\Health_care_BLE\Application\src\main\AndroidManifest.xml:40:19-53
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Health_care_BLE\Application\src\main\AndroidManifest.xml:42:13-45:29
+action#android.intent.action.MAIN
+ADDED from E:\Health_care_BLE\Application\src\main\AndroidManifest.xml:43:17-68
+	android:name
+		ADDED from E:\Health_care_BLE\Application\src\main\AndroidManifest.xml:43:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Health_care_BLE\Application\src\main\AndroidManifest.xml:44:17-76
+	android:name
+		ADDED from E:\Health_care_BLE\Application\src\main\AndroidManifest.xml:44:27-74
+activity#com.example.android.bluetoothlegatt.DeviceControlActivity
+ADDED from E:\Health_care_BLE\Application\src\main\AndroidManifest.xml:47:9-58
+	android:name
+		ADDED from E:\Health_care_BLE\Application\src\main\AndroidManifest.xml:47:19-56
+service#com.example.android.bluetoothlegatt.BluetoothLeService
+ADDED from E:\Health_care_BLE\Application\src\main\AndroidManifest.xml:48:9-77
+	android:enabled
+		ADDED from E:\Health_care_BLE\Application\src\main\AndroidManifest.xml:48:53-75
+	android:name
+		ADDED from E:\Health_care_BLE\Application\src\main\AndroidManifest.xml:48:18-52
+uses-sdk
+INJECTED from E:\Health_care_BLE\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Health_care_BLE\Application\src\main\AndroidManifest.xml
+INJECTED from E:\Health_care_BLE\Application\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v13:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\192428793c93a19b4680539180fb646f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\192428793c93a19b4680539180fb646f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\1cb2bc5cdbb3547a743bb88a81ad8da4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\1cb2bc5cdbb3547a743bb88a81ad8da4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\8edf3d75203575fb527dc6580936c6f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\8edf3d75203575fb527dc6580936c6f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\093483d46585861c97508a87c6b1e7f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\093483d46585861c97508a87c6b1e7f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\f1ff2af6803941560b55120c4aa66986\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\f1ff2af6803941560b55120c4aa66986\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\93e526283af5d9223731fbda5a4457f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\93e526283af5d9223731fbda5a4457f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\811951f0e7290f7222306999fb1c8815\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\811951f0e7290f7222306999fb1c8815\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\1f731142c62d605d7e550acf8c0239fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\1f731142c62d605d7e550acf8c0239fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\7ce630a3279da2f231228f06eb654597\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\7ce630a3279da2f231228f06eb654597\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\5a37e8017bfce1766d50e3446c99a356\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\5a37e8017bfce1766d50e3446c99a356\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\c26833e41a43464930a80efd37818a6f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\c26833e41a43464930a80efd37818a6f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\91e00242e76aad9fbe3a4ad4d2b4969f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\91e00242e76aad9fbe3a4ad4d2b4969f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\29e76035f11548cf3479b24452f99c43\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\29e76035f11548cf3479b24452f99c43\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\1b58b5f5a9517f2c0eb51562dfa89e86\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\1b58b5f5a9517f2c0eb51562dfa89e86\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\72d28e5b0c5bcb2ea29cd4d1bdee1b53\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\72d28e5b0c5bcb2ea29cd4d1bdee1b53\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\b71cd8f10168d97506f31985fb1deb30\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\b71cd8f10168d97506f31985fb1deb30\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\29670791901da5a9d7959c7c95114309\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\29670791901da5a9d7959c7c95114309\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\3e9cffdbed58e7cc414d91b02e9fc670\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\3e9cffdbed58e7cc414d91b02e9fc670\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\515ad45dd462052433ddbb42c4ec0550\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\515ad45dd462052433ddbb42c4ec0550\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\61a9fb511008124a506eb41f041ee391\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\61a9fb511008124a506eb41f041ee391\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\9119f1f39a3ebfef21ff21515d8b9613\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\9119f1f39a3ebfef21ff21515d8b9613\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\1a68475273cebc591bcb9b2f87c186cb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\1a68475273cebc591bcb9b2f87c186cb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\19faab6cfe088658bbd92ee373c00b4b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\19faab6cfe088658bbd92ee373c00b4b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\ed24ddf4dc5c5a0d5706606f7f620800\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\ed24ddf4dc5c5a0d5706606f7f620800\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\77165c3814b6333fb21616e740ed68ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\77165c3814b6333fb21616e740ed68ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\85733c0efd093869cbd102e68c1be272\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\85733c0efd093869cbd102e68c1be272\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\0c942ed04f51454c2c828ae3b1132962\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\0c942ed04f51454c2c828ae3b1132962\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\f8b666beac350e9de17f03e9674f379a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\f8b666beac350e9de17f03e9674f379a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\55b85f454f377971ad0ebeb42d2f205c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\55b85f454f377971ad0ebeb42d2f205c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\952ecf51c9d89b9acba6f33d77650ba1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\calic\.gradle\caches\transforms-2\files-2.1\952ecf51c9d89b9acba6f33d77650ba1\AndroidManifest.xml:20:5-44
+INJECTED from E:\Health_care_BLE\Application\src\main\AndroidManifest.xml
+INJECTED from E:\Health_care_BLE\Application\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Health_care_BLE\Application\src\main\AndroidManifest.xml
+		ADDED from E:\Health_care_BLE\Application\src\main\AndroidManifest.xml
+		INJECTED from E:\Health_care_BLE\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Health_care_BLE\Application\src\main\AndroidManifest.xml
+		ADDED from E:\Health_care_BLE\Application\src\main\AndroidManifest.xml
+		INJECTED from E:\Health_care_BLE\Application\src\main\AndroidManifest.xml

@@ -1,0 +1,4 @@
+#Thu Jan 02 11:07:19 KST 2020
+base.0=E\:\\Health_care_BLE\\Application\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
